@@ -1,0 +1,31 @@
+*{
+    background-color: bisque;
+}
+
+h1{ /*selector ede tipo*/
+    color: cornflowerblue;
+    text-align: center;
+    font-family: 'Chivo Mono', monospace;;
+} 
+h2 {
+    color: slateblue;
+    font-family: 'Chivo Mono', monospace;
+}
+
+.tipos-plantas {
+    background-color: lightskyblue;
+}
+#flores{
+    color: darkmagenta;
+}
+
+table, td, th {
+    text-align: center;   
+    border: 3px ridge black;  
+}
+
+.tabla-dos {
+    text-align: center;
+    color:darkcyan
+
+}

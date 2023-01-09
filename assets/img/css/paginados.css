@@ -1,0 +1,29 @@
+header > h1 { /*selectores combinadores*/
+color:slateblue;
+text-align: center;
+font-style: oblique;
+background-color:lightblue;
+}
+
+nav > ul {
+    display: flex;
+    font-style: inherit;
+    justify-content:center;
+    background-color:khaki;
+    width: 800px;
+    height: 100px;
+    border-radius: 30 px;
+}
+
+li{
+    padding: 50px;
+    font-size: 20px;
+    list-style-type: none;
+}
+a[href="Melanie.html"]{ /*selector de tipo*/
+    color:goldenrod;
+}
+
+footer{
+    text-align: center;
+}
